@@ -1,2 +1,2 @@
 # Analog-Clock
-A simple analog clock using Vanilla JavaScript.
+A simple minimalist design analog clock using Vanilla JavaScript.
